@@ -8,7 +8,7 @@ class Questao07{
 	// Criando um objeto Scanner
 	Scanner scanner = new Scanner(System.in);
 	
-	//Pedundo para o usuário digitar um número de 1 a 7
+	//Pedindo para o usuário digitar um número de 1 a 7
 	System.out.print("Digite um número de 1 a 7: ");
 	int numero = scanner.nextInt();
 	
