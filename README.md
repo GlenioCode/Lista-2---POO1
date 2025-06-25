@@ -11,7 +11,7 @@ divisível por 100 ou divisível por 400).
 • B (80-89) 
 • C (70-79) 
 • D (60-69) 
-• F (abaixo de 60)7. •
+• F (abaixo de 60)7. 
 7. Peça ao usuário um número de 1 a 7 e exiba o dia da semana correspondente usando switch-case. 
 8. Solicite a idade do usuário e informe se ele pode votar ou não: 
 • Menor que 16 → Não pode votar 
