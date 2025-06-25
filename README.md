@@ -33,3 +33,11 @@ divisível por 100 ou divisível por 400).
 
 10. Peça ao usuário um número de 0 a 5 e exiba seu nome por extenso (zero, um, dois, três, quatro, cinco) 
 usando switch-case.
+
+11. Crie um sistema que peça uma senha ao usuário ("1234" como senha correta). Se a senha estiver 
+errada, exiba "Acesso negado", senão, exiba "Acesso permitido". 
+
+12. Elabore um programa que leia três notas de um aluno e calcule a média ponderada dessas notas. Os 
+pesos são 2, 3 e 4, respectivamente. Se a média for menor ou igual a 4, o algoritmo deve imprimir 
+“Reprovado”. Se a média for maior ou igual a 7, o algoritmo deve imprimir “Aprovado”. E se a média for 
+maior que 4 e menor que 7, o algoritmo imprime “Recuperação”.
