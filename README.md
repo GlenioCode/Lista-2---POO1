@@ -41,3 +41,31 @@ errada, exiba "Acesso negado", senão, exiba "Acesso permitido".
 pesos são 2, 3 e 4, respectivamente. Se a média for menor ou igual a 4, o algoritmo deve imprimir 
 “Reprovado”. Se a média for maior ou igual a 7, o algoritmo deve imprimir “Aprovado”. E se a média for 
 maior que 4 e menor que 7, o algoritmo imprime “Recuperação”.
+
+13. Peça ao usuário um mês (1 a 12) e exiba a estação do ano correspondente (verão, outono, inverno, 
+primavera) usando switch-case. 
+
+14. Elabore um programa que peça ao usuário o salário atual e calcule o novo salário com base na 
+seguinte regra: 
+• Se o salário for até R$ 1.500,00, aumento de 15%. 
+• Se estiver entre R$ 1.500,01 e R$ 3.000,00, aumento de 10%. 
+• Acima de R$ 3.000,00, aumento de 5%. 
+
+15. Escreva um programa que ajude os funcionários da bilheteria de um cinema. Ele recebe o nome e a 
+idade de um usuário. Sabendo que crianças de até dez anos pagam cinco reais, jovens de onze a vinte 
+anos pagam dez reais e pessoas acima de vinte anos pagam quinze reais, o algoritmo deve escrever 
+quanto um usuário vai pagar de acordo com a idade que foi fornecida no início. 
+16. Elabore um programa que classifica um nadador de acordo com sua idade em uma das categorias 
+abaixo: 
+• Infantil A: 5 a 7 anos 
+• Infantil B: 8 a 10 anos 
+• Juvenil A: 11 a 13 anos 
+• Juvenil B: 14 a 17 anos 
+• Adulto: a partir de 18 anos 
+
+17. Desenvolva um programa que peça o salário bruto de um funcionário e calcule o salário líquido após 
+o desconto do INSS: 
+• Salário ≤ R$ 1.320,00 → Desconto de 7.5% 
+• Entre R$ 1.320,01 e R$ 2.571,29 → Desconto de 9% 
+• Entre R$ 2.571,30 e R$ 3.856,94 → Desconto de 12% 
+• Acima de R$ 3.856,95 → Desconto de 14%
