@@ -102,31 +102,3 @@ valor esteja fora desse intervalo.
 ● Entre 40 e 60 km/h → "Velocidade permitida" 
 ● Acima de 60 km/h → "Acima da velocidade permitida" 
 
-23. Desenvolva um programa que peça um número e verifique: 
-● Se é múltiplo de 4 → Exiba "Múltiplo de 4". 
-● Se é múltiplo de 6 → Exiba "Múltiplo de 6". 
-● Se for múltiplo de ambos → Exiba "Múltiplo de 4 e 6". 
-● Se não for múltiplo de nenhum → Exiba "Não é múltiplo de 4 nem de 6". 
-
-24. Elabore um programa que gere um número aleatório entre 0 e 9 e leia um número do usuário. Se o 
-número digitado for igual ao número gerado, o programa imprime “Acertou”. Caso contrário, ele imprime 
-“Errou. Tente outra vez.” 
-
-25. Desenvolva um programa que receba a idade e o peso de uma pessoa. Com base nos seguintes 
-critérios, o programa deve determinar e exibir o grupo de risco ao qual essa pessoa pertence: 
-● Se a pessoa tem menos de 20 anos: 
-○ Peso até 60 kg → Grupo de risco 9 
-○ Peso entre 60 e 90 kg → Grupo de risco 8 
-○ Peso acima de 90 kg → Grupo de risco 7 
-
-● Se a pessoa tem entre 20 e 50 anos: 
-○ Peso até 60 kg → Grupo de risco 6 
-○ Peso entre 60 e 90 kg → Grupo de risco 5 
-○ Peso acima de 90 kg → Grupo de risco 4 
-
-● Se a pessoa tem mais de 50 anos: 
-○ Peso até 60 kg → Grupo de risco 3 
-○ Peso entre 60 e 90 kg → Grupo de risco 2 
-○ Peso acima de 90 kg → Grupo de risco 1 
-O programa deve receber os valores informados pelo usuário e exibir o grupo de risco 
-correspondente.
