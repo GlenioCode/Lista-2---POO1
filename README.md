@@ -69,3 +69,27 @@ o desconto do INSS:
 • Entre R$ 1.320,01 e R$ 2.571,29 → Desconto de 9% 
 • Entre R$ 2.571,30 e R$ 3.856,94 → Desconto de 12% 
 • Acima de R$ 3.856,95 → Desconto de 14%
+
+18. Escreva um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados 
+necessários para executar cada operação. 
+Menu: 
+1. Somar dois números 
+2. Multiplicação de dois números 
+3. Raiz quadrada de um número 
+4. Quadrado de um número 
+Digite a opção desejada: 
+
+19. Desenvolva um programa que permita ao usuário escolher entre duas possibilidades para conversão 
+de temperaturas. O algoritmo deve mostrar o menu abaixo, ler a opção de conversão e realizar o 
+respectivo cálculo de conversão. Observe as informações abaixo. 
+Menu de Conversão de Temperaturas 
+1. Conversão Celsius/Fahrenheit: F = 9/5 * C+32. 
+2. Conversão Fahrenheit/Celsius: C = 5/9 * (F-32). 
+Digite a opção desejada: 
+Obs.: Nas fórmulas, C representa a temperatura em graus Celsius e F representa a temperatura em graus 
+Fahrenheit. 
+
+20. Peça ao usuário a quantidade de horas estacionadas e calcule o valor a ser pago: 
+• Até 2 horas → R$ 5,00 por hora 
+• De 3 a 5 horas → R$ 4,00 por hora 
+• Mais de 5 horas → R$ 3,00 por hora
